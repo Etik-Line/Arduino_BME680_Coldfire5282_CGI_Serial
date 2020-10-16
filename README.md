@@ -22,7 +22,7 @@ Simply access the main.html via any WebClient.
 
 Command line : (mostly for testing, as it prints <html> tags)
 ```bash
-./read-serial x
+./read_serial x
 ```
 Where x can be traded for a - temperature
                           b - humidity
