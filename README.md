@@ -2,7 +2,7 @@
 
 Arduino_BME680_Coldfire5282_CGI_Serial is a C CGI project which gathers data from a BME680 sensor connected to an Arduino to a Colfire 5282 developement board.
 
-Communication is made through RS232 protocol, but should work with other serial with some adjustments.
+Communication is made through RS232 protocol, but should work with other serial protocols with some adjustments.
 
 ## Installation
 
