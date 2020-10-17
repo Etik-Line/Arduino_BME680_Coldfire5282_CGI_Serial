@@ -4,7 +4,7 @@ Arduino_BME680_Coldfire5282_CGI_Serial is a C CGI project which gathers data fro
 
 Communication is made through RS232 protocol, but should work with other serial protocols with some adjustments.
 
-![Alt text](https://github.com/Etik-Line/Arduino_BME680_Coldfire5282_CGI_Serial/Montage.png?raw=true "Montage")
+![Montage](https://github.com/Etik-Line/Arduino_BME680_Coldfire5282_CGI_Serial/blob/master/Montage.png?raw=true "Montage")
 
 
 ## Installation
